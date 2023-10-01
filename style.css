@@ -1,0 +1,18 @@
+.flex{
+    display: flex;
+    gap: 2;
+}
+
+.card{
+    width: 15em;
+    height: 15em;
+    background: #2b0808;
+    border-radius: 5px;
+}
+
+#product-name{
+    
+    font-weight: bold;
+    font-size: 30px;
+    margin: 0;
+}
