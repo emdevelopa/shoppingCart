@@ -11,8 +11,8 @@ function Product(name, price) {
     }
 }
 
-let productArray = []
 
+let productArray = []
 
 function ShoppingCart() {
 
@@ -37,7 +37,7 @@ function ShoppingCart() {
 
 
 
-const arr = []
+
 
 const addToCart = (button) => {
     // const card = document.getElementById(cardId)
